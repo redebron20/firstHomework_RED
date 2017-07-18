@@ -1,0 +1,102 @@
+html {
+	font-size: 16px;
+}
+
+body {
+	border: solid 5px #777;
+	margin: 2rem;
+	padding: 3rem;
+	color: #eee;
+	background-color: #444;
+	max-width: 800px;
+	font-family: Georgia, Times, serif;
+}
+
+.title {
+	text-align: center;
+}
+
+.title-border-bottom {	
+	border-bottom: 2px solid #777;
+	padding-bottom: 2rem;
+}
+
+.item {
+	font-family: Arial, Roboto, sans-serif;
+	font-weight: bold;
+	color: #1ABC9C;
+	border-right: 1px solid #777;
+	padding-left: 5px;
+	padding-right: 5px;
+	line-height: 16px;
+	display: inline-block;
+}
+
+.item-one {
+	color: white;
+	text-decoration: none;
+	pointer-events: none;
+}
+
+.item:last-child {
+	border-right: none;
+	padding: 5px;
+}
+
+.title-two, h2 {
+	font-family: Arial, Roboto, sans-serif;
+	font-weight: 900;
+	padding-top: 1rem;
+}
+
+.main-title {
+	font-style: italic;
+	font-size: 2.5rem;
+	font-weight: lighter;
+}
+
+.bettyphoto {
+	float: right;
+	border: 1px solid #777;
+	padding: 4px;
+	margin: 1rem;
+}
+
+p, li {
+	font-size: 1rem;
+	line-height: 1.5rem;
+	text-align: left;
+}
+
+.title-border-top {
+	border-top: 2px solid #777;
+	padding-top: 2rem;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 1.2rem;
+}
+
+.list-experience li {
+	padding: 10px;
+}
+	
+.list-education li {
+	padding: 3px;
+}	
+
+ul {
+    list-style-type: square;
+}
+
+.qualifications {
+	color: #ccc;
+	font-weight: normal;
+}
+
+
+
+
+
+
